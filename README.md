@@ -10,9 +10,6 @@ Passionate about clean code and learning new technologies.
 ---
 
 ## 🛠️ Tools & Technologies
-
-## 💻 Tools and Languages
-
 - **Frontend:** React · Next.js · Redux · Tailwind CSS · React Native
 - **Backend:** Node.js · NestJS · Express
 - **Databases:** PostgreSQL · MongoDB · MySQL
