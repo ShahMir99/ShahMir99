@@ -11,35 +11,14 @@ Passionate about clean code and learning new technologies.
 
 ## 🛠️ Tools & Technologies
 
-### Frontend
-- React
-- Next.js
-- Tailwind CSS
-- Redux
-- React Native
+## 💻 Tools and Languages
 
-### Backend
-- Node.js
-- NestJS
-- Express
-
-### Databases
-- MongoDB
-- PostgreSQL
-- MySQL
-
-### Tools
-- Git
-- Docker
-- Jenkins
-
-### Languages
-- JavaScript
-- TypeScript
-- Python
-- C++
-
----
+- **Frontend:** React · Next.js · Redux · Tailwind CSS · React Native
+- **Backend:** Node.js · NestJS · Express
+- **Databases:** PostgreSQL · MongoDB · MySQL
+- **Testing:** Jest
+- **Tools:** Docker · Git · Jenkins
+- **Programming Languages:** JavaScript · TypeScript · Java · Python  · C++
 
 ## 🌱 Always eager to:
 - Collaborate on projects
