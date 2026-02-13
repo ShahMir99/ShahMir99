@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Shahmir</h1>
-<h3 align="center">Full Stack Software Engineer</h3>
+<h1 >Hi 👋, I'm Shahmir</h1>
+<h3 >Full Stack Software Engineer</h3>
 
----
 
 ## 👨‍💻 About Me
 I'm a full-stack developer specializing in building scalable and user-friendly applications.
 Passionate about clean code and learning new technologies.
 
----
 
 ## 🛠️ Tools & Technologies
 - **Frontend:** React · Next.js · Redux · Tailwind CSS · React Native
